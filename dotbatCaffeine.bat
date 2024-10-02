@@ -1,5 +1,5 @@
 @echo off
-title dotbatCaffeine by younix v1.0 (contact: iamyounix@gmail.com)
+title dotbatCaffeine by younix v1.0
 echo.
 echo dotbatCaffeine is active.
 echo.
