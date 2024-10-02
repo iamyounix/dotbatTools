@@ -1,5 +1,5 @@
 @echo off
-title dotbatRename by younix v1.0 (contact: iamyounix@gmail.com)
+title dotbatRename by younix v1.0
 setlocal EnableDelayedExpansion
 
 :menu
