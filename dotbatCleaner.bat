@@ -1,5 +1,5 @@
 @echo off
-title dotbatCleaner by younix v1.0 (contact: iamyounix@gmail.com)
+title dotbatCleaner by younix v1.0
 setlocal enabledelayedexpansion
 
 REM Proceed with the cleanup
