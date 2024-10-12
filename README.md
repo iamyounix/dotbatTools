@@ -1,4 +1,4 @@
-# mybatchtool
+# mydotbatTools
 Just a random windows batch tool using cmd (It's Free)
 
 dotbatCaffeine:
