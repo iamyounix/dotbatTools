@@ -60,7 +60,8 @@ goto menu
 
 :getDir
 echo ===========================================
-echo Drag and drop the directory containing the %1 you want to rename:
+echo Enter the full path of the directory containing the %1 you want to rename:
+echo For example, Z:\Shared\Folder or \\NetworkPath\Shared\Folder
 echo ===========================================
 echo.
 set /p dirPath=
